@@ -1,0 +1,53 @@
+
+body {
+    background-color: #19660e;
+}
+
+h1 {
+    text-align:center;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    overflow:hidden;
+    background-color:#219412;
+}
+
+li {
+    float:left;
+}
+
+li a {
+    display:block;
+    color:white;
+    text-align:center;
+    padding:14px 16px;
+    text-decoration:none;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+li a:hover{
+    background-color:#213b12;
+}
+
+p {
+    font-size:30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left:18px;
+    color: white;
+}
+
+.immagini{
+    display:flex;
+    margin-bottom:100px;
+    margin-left:80px;
+}
+
+#image{
+    margin-left:610px;
+    padding:20px;
+}
